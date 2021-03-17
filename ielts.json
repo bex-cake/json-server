@@ -9,28 +9,28 @@
   ],
   "Teachers": [
     {
-      "FullName": "P.Loboda",
-      "ExamResult": "7.5",
+      "Full Name": "P.Loboda",
+      "Exam Result": "7.5",
       "Contacts": 78945610
     },
     {
-      "FullName": "D.Dreaming",
-      "ExamResult": "8",
+      "Full Name": "D.Dreaming",
+      "Exam Result": "8",
       "Contacts": 7412058
     },
     {
-      "FullName": "M.Misoo",
+      "Full Name": "M.Misoo",
       "Exam Result": "8.5",
       "Contacts": 74185920
     },
     {
-      "FullName": "I.Youplos",
+      "Full Name": "I.Youplos",
       "Exam Result": "8.5",
       "Contacts": 789453210
     },
     {
-      "FullName": "S.Simuf",
-      "ExamResult": "9",
+      "Full Name": "S.Simuf",
+      "Exam Result": "9",
       "Contacts": 789415203
     }
   ]
