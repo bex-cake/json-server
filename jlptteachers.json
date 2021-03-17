@@ -1,0 +1,20 @@
+{
+  "Name": "JLPT",
+  "Teachers": [
+    {
+      "fullname": "P.Pinyiin",
+      "examresult": "JLPT6",
+      "contacts": 56520655
+    },
+    {
+      "fullname": "Q.Shi",
+      "examresult": "JLPT5",
+      "contacts": 56520655
+    },
+    {
+      "fullname": "E.Unikuza",
+      "examresult": "JLPT6",
+      "contacts": 56520655
+     }
+  ]
+}
