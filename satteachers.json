@@ -1,0 +1,21 @@
+  
+{
+  "Name": "SAT",
+  "Teachers": [
+    {
+      "fullname": "K.Tackmina",
+      "examresult": "1500",
+      "contacts": 7894561
+    },
+    {
+      "fullname": "N.Nastiya",
+      "examresult": "1580",
+      "contacts": 784123450
+    },
+    {
+      "fullname": "K.Kolinf",
+      "examresult": "1590",
+      "contacts": 74185236
+    }
+  ]
+}
