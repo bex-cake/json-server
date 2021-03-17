@@ -1,0 +1,36 @@
+{
+  "Name": "IELTS",
+  "Band": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "Teachers": [
+    {
+      "Full Name": "P.Loboda",
+      "Exam Result": "7.5",
+      "Contacts": 78945610
+    },
+    {
+      "Full Name": "D.Dreaming",
+      "Exam Result": "8",
+      "Contacts": 7412058
+    },
+    {
+      "Full Name": "M.Misoo",
+      "Exam Result": "8.5",
+      "Contacts": 74185920
+    },
+    {
+      "Full Name": "I.Youplos",
+      "Exam Result": "8.5",
+      "Contacts": 789453210
+    },
+    {
+      "Full Name": "S.Simuf",
+      "Exam Result": "9",
+      "Contacts": 789415203
+    }
+  ]
