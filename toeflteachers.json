@@ -1,0 +1,30 @@
+{
+  "Name": "TOEFL",
+  "Teachers": [
+    {
+      "fullname": "K.Samurayev",
+      "examresult": "115",
+      "contacts": 78945035
+    },
+    {
+      "fullname": "S.Samiyev",
+      "examresult": "120",
+      "contacts": 7894582
+    },
+    {
+      "fullname": "K.Logirev",
+      "examresult": "118",
+      "contacts": 7851423
+    },
+    {
+      "fullname": "W.Wallet",
+      "examresult": "119",
+      "contacts": 7894501332
+    },
+    {
+      "fullname": "P.Pototatoto",
+      "examresult": "110",
+      "contacts": 7895042230
+    }
+  ]
+}
